@@ -1,4 +1,4 @@
-package day2.assignment1;
+package day3.assignment1;
 class Area {
     private int length;
     private int breadth;

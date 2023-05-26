@@ -1,4 +1,4 @@
-package day2.assignment2;
+package day3.assignment2;
 
 public class Main {
    /* Write a program that would print the information (name, year of joining, salary, address)

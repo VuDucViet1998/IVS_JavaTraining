@@ -1,4 +1,4 @@
-package day2.assignment2;
+package day3.assignment2;
 
 public class Employee {
     private String name;
